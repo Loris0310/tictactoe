@@ -6,9 +6,9 @@ L’application utilise **OpenJDK 21.0.2**.
 
 ---
 
-## 🚀 Exécution
+## Exécution
 
-### Depuis IntelliJ IDEA (recommandé)
+### Depuis IntelliJ IDEA
 1. Ouvrir le projet  
 3. Lancer la classe **Main.java**
 
